@@ -52,7 +52,7 @@ http://localhost:5000
 
 ## How to run test cases
 
-All the necessery information along with expected outputs are provided in the <testing> file.
+All the necessery information along with expected outputs are provided in the [TESTING](https://github.com/tgunjal0421/time-capsule-api/blob/main/TESTING.docx) file.
 
 ## Assumptions & Tradeoffs
 
